@@ -321,7 +321,7 @@
 			],
 			"settings": {
 				"foreground": "#ee6666",
-				"fontStyle": "underline italic"
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -330,7 +330,7 @@
 			],
 			"settings": {
 				"foreground": "#f6f6f4",
-				"fontStyle": "underline italic"
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -347,15 +347,6 @@
 			],
 			"settings": {
 				"foreground": "#ee6666"
-			}
-		},
-		{
-			"name": "Underlined markup",
-			"scope": [
-				"markup.underline"
-			],
-			"settings": {
-				"fontStyle": "underline"
 			}
 		},
 		{
@@ -835,7 +826,7 @@
 				"variable.other.alias.yaml"
 			],
 			"settings": {
-				"fontStyle": "italic underline",
+				"fontStyle": "italic",
 				"foreground": "#a4e0a5"
 			}
 		},
