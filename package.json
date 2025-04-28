@@ -1,0 +1,48 @@
+{
+	"name": "fleeting-theme",
+	"displayName": "Fleeting Theme",
+	"description": "A simplified and customized Monokai theme.",
+	"version": "0.1.1",
+	"engines": {
+		"vscode": "^1.87.0"
+	},
+	"publisher": "fleeting-sound",
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"keywords": [
+		"Vscode",
+		"Theme",
+		"Fleeting",
+		"Monokai"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Fleet Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fleeting-theme-color-theme.json"
+			},
+			{
+				"label": "Fleet Theme Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/fleeting-theme-night-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "444fd080-33d6-449e-ad4d-3e33b9dc7f8e",
+		"publisherId": "0df1f5e1-6425-47bd-8504-7912e40d1b25",
+		"publisherDisplayName": "fleeting-sound",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1725935475138,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 266877
+	}
+}
